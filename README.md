@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Shcherbakov Mark @EKIQORE.
+- 👀 I’m interested in Web 3.0, Web Developing.
+- 🌱 I’m currently learning CS50.
+- 📫 How to reach me: EKIQORE.dev@proton.me.
